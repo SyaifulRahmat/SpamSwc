@@ -1,5 +1,9 @@
-# SpamSwc
-Tools Spam Berjalan
+# Warning!!!
+>> Tools Free
+>> jangan Sampai Disalah Gunakan Saya Tidak Akan Bertanggung Jawab
+>> Script Full Open Source Code Sebab
+>> Saya Hanya Meng up Kembali!
+>> Selamat Menggunakan
 # Instalation
 Download apk Termuxnya disini biar ngga eror
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)
