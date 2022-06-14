@@ -1,10 +1,9 @@
 # SpamSwc
 Tools Spam Berjalan
 # Instalation
-Download apk Termuxnya disini biar ngga eror🌟
-[Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
+Download apk Termuxnya disini biar ngga eror
+[Klik Disini](https://f-droid.org/repo/com.termux_117.apk)
 ```bash
-$ cd
 $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests mechanize
