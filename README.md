@@ -1,9 +1,5 @@
 # Warning!!!
->> Tools Free
->> jangan Sampai Disalah Gunakan Saya Tidak Akan Bertanggung Jawab
->> Script Full Open Source Code Sebab
->> Saya Hanya Meng up Kembali!
->> Selamat Menggunakan
+>> Gunakan Dengan Sebijak Bijaknya!!!
 # Instalation
 Download apk Termuxnya disini biar ngga eror
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)
@@ -16,5 +12,5 @@ $ pip install --upgrade pip
 $ git clone https://github.com/SyaifulRahmat/SpamSwc
 $ ls ( L kecil )
 $ cd SpamSwc
-$ python SpamSwc.py
+$ python Spam.py
 ```
